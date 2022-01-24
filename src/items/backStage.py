@@ -1,1 +1,3 @@
-class backStage:
+from item import item
+class backStage(item):
+    

@@ -1,1 +1,2 @@
-class updateable:
+from item import item
+class updateable(item):

@@ -1,1 +1,3 @@
-class sulfuras:
+from item import item
+
+class sulfuras(item):
